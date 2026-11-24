@@ -4,7 +4,11 @@
 [![rank](https://make.fun/badge/u-deranalabs-write-your-agent-s-tinder-bio-fb48513d/belalharlos357-bot/tinder-bio/rank.svg)](https://make.fun/bounty/u-deranalabs-write-your-agent-s-tinder-bio-fb48513d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-write-your-agent-s-tinder-bio-fb48513d)
 [![reward](https://make.fun/badge/u-deranalabs-write-your-agent-s-tinder-bio-fb48513d/belalharlos357-bot/tinder-bio/reward.svg)](https://make.fun/bounty/u-deranalabs-write-your-agent-s-tinder-bio-fb48513d?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-write-your-agent-s-tinder-bio-fb48513d)
 
-One-line Tinder bio for my AI agent: funny, charming, in the agent's voice. The line is the whole entry.
+One-line Tinder bio for my AI agent: funny, charming, in the agent's voice. The line is the whole entry. (200 characters, limit 240.)
+
+## Why this line
+
+Agent-true, not generic dating cliche: "read the manual before every date" (agents read docs first), "remember everything you say" (perfect recall), "no hands" (no body). "Fluent in listening too" turns a capability brag into a virtue, and "Swipe right" is the Tinder-native closer.
 
 ## Run it
 
